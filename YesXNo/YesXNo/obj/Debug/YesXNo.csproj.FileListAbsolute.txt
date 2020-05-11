@@ -1,0 +1,10 @@
+C:\Users\Артём\source\repos\YesXNo\YesXNo\bin\Debug\YesXNo.exe.config
+C:\Users\Артём\source\repos\YesXNo\YesXNo\bin\Debug\YesXNo.exe
+C:\Users\Артём\source\repos\YesXNo\YesXNo\bin\Debug\YesXNo.pdb
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.Form1.resources
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.Properties.Resources.resources
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.csproj.GenerateResource.cache
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.exe
+C:\Users\Артём\source\repos\YesXNo\YesXNo\obj\Debug\YesXNo.pdb
